@@ -12,6 +12,6 @@ export const updateIntegration = async (
     data: {
       token,
       expiresAt: expire,
-    },
+    }, 
   })
 }

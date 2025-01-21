@@ -6,4 +6,4 @@ export const refreshToken = async (token: string) => {
     )
 
     return refresh_token.data
-}
+} 

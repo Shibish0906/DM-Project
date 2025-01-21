@@ -22,7 +22,7 @@ export const findUser = async (clerkId:string) => {
 }
 
 export const createUser = async (
-    clerkId: string,
+    clerkId: string, 
     firstname: string,
     lastname: string,
     email: string
